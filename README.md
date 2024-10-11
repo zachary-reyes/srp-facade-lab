@@ -1,3 +1,5 @@
+The SRP Facade Lab project focuses on the Single Responsibility Principle (SRP) and the Facade Design Pattern. It involves an RPG game where the RpgPlayer class has become overloaded with responsibilities. The goal is to refactor this class by applying SRP, separating concerns like item behavior and damage calculation. Additionally, you’ll create a Facade to simplify access to complex functionalities, ensuring clean, centralized interfaces for clients. This project is aimed at improving code cohesion and maintaining clear separation between different functionalities of the game.
+
 # srp-facade-lab
 CSC 309 Lab on the Single Responsibility Principle and Facade Design Pattern
 
